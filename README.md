@@ -18,7 +18,7 @@
   - [Front-End Development Libraries](https://www.freecodecamp.org/certification/fcc7cd96e00-5824-40de-95f2-6f1f722b37d7/front-end-development-libraries)
 
 ## Contact
-Feel free to shoot me an [email](seanrwhitley@gmail.com) for any inquiries!
+Feel free to shoot me an <seanrwhitley@gmail.com> for any inquiries!
 
 
 
