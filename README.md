@@ -9,9 +9,9 @@
 - GraphQL queries
 - Websockets
 
-## Web app engineer
+## Full-stack web engineer
 ### Skills:
-- HTML, CSS, Javascript (ES6), node.js, and React Framework
+- HTML, CSS, Javascript (ES6), node.js, express, MongoDB, and React Framework
 - Hold three certificates from [FreeCodeCamp.org](https://www.freecodecamp.org/)
   - [Responsive Web Design](https://freecodecamp.org/certification/fcc7cd96e00-5824-40de-95f2-6f1f722b37d7/responsive-web-design)
   - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc7cd96e00-5824-40de-95f2-6f1f722b37d7/javascript-algorithms-and-data-structures)
