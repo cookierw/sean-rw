@@ -1,11 +1,12 @@
 # Sean W. (@sean-rw)
 ### Salesforce CRM Developer @ Revature
+- [Linkedin](https://www.linkedin.com/in/seanrwhitley/)
+- [Trailblazer Profile](https://trailblazer.me/id/sean-rw)
 
 
 ## Salesforce CRM Developer
 **Skills:**
 - Lightning Web Components (OSS) & SLDS
-- [Trailblazer Profile](https://trailblazer.me/id/sean-rw)
 - Training at Revature. More to come soon.
 
 ## Full-stack web engineer
