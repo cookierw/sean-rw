@@ -6,7 +6,9 @@
 
 ## Salesforce CRM
 **Skills:**
-- Lightning Web Components (OSS) & SLDS
+- Lightning Web Components (Platform/OSS) & SLDS
+  - CSS styling, shared resource bundles, shadow dom
+  - Reactivity in LWR
   - ES6/Modern JavaScript development
 - Imperative automation
   - Flows, approval processes, etc
