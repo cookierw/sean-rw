@@ -6,6 +6,8 @@ In this repo you'll find several personal projects to pertray my skills, but als
 
 ## Full-stack web engineer
 - With Revature, I built and maintained internal web applications, leveraging the skills listed below.
+  An example project can be found here:
+    [Commerce](https://github.com/sean-rw/commerce)
 
 **Skills:**
 - Java (Spring Framework: Boot, Data (JPA), Security), TypeScript and JavaScript, and front-end libraries like Angular and React
